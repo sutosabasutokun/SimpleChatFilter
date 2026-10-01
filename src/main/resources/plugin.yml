@@ -1,0 +1,5 @@
+name: SimpleChatFilter
+version: 1.0
+main: com.yourname.chatfilter.Main
+api-version: "26.2"
+description: スパムや不適切な発言を防止するシンプルなプラグイン
